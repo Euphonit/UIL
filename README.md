@@ -1,1 +1,3 @@
-Stuff for play im doing tech and design stuff on. repo is only public cause the director and assistant directors need to see it.
+Hub for my theater's one-act of Pride and Prejudice
+
+Look in notes section for what Rehersal Notes
